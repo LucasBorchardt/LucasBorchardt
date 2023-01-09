@@ -1,7 +1,19 @@
-# Saludo para el mundo.
-  Soy un tipo cualquiera tratando de entrar en el extraño mundo del codigo. 
-  Me he dedicado a la fotografía por mas de 16 años y siguiendo al gato que murió por su curiosidad me embarco en esta travesía hacia lo digital.
+# ~~Saludo para el mundo~~
+  Soy un tipo cualquiera tratando de entrar en el **_extraño_** mundo del codigo. 
+  Me he dedicado a la fotografía por mas de 16 años y siguiendo a _**_el gato que murió por su curiosidad_**_ me embarco en esta travesía hacia lo digital.
+ 
  ![git foto](./1904525.jpg)
+ 
+ ## Capacidades 
+  - Logico
+  - Extrovertido
+  - Flexible
+ 
+ ### Cosas por hacer
+  - [ ] Tener paciencia
+  - [ ] Despertarme temprano
+  - [ ] No aburrirme 
+  
   
   
 
