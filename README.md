@@ -10,7 +10,7 @@
   - Flexible
  
  ### Cosas por hacer
-  - [ ] Tener paciencia
+  - [x] Tener paciencia
   - [ ] Despertarme temprano
   - [ ] No aburrirme 
   
