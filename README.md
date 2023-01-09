@@ -1,7 +1,7 @@
 # Saludo para el mundo.
   Soy un tipo cualquiera tratando de entrar en el extraño mundo del codigo. 
   Me he dedicado a la fotografía por mas de 16 años y siguiendo al gato que murió por su curiosidad me embarco en esta travesía hacia lo digital.
- ![git foto]()
+ ![git foto](./1904525.jpg)
   
   
 
